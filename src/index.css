@@ -1,0 +1,17 @@
+body {
+ height: 100%;
+ background-color: rgb(129, 251, 184);
+ font-family: "Roboto";
+}
+
+h2 {
+  text-align: center;
+}
+.container {
+  margin: 100px auto 10px;
+  width: 85%;
+  text-align: center;
+}
+.container div {
+  margin-bottom: 5px;
+}
